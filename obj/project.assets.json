@@ -6075,11 +6075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Laboratory work 2 (HCI)\\Laboratory work 2 (HCI)\\LBHCI.csproj",
-      "projectName": "LBHCI",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Laboratory work 2 (HCI)\\Laboratory work 2 (HCI)\\LBHCI.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Lab2HCI\\Lab2HCI\\Lab2HCI.csproj",
+      "projectName": "Lab2HCI",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Lab2HCI\\Lab2HCI\\Lab2HCI.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Laboratory work 2 (HCI)\\Laboratory work 2 (HCI)\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\Lab2HCI\\Lab2HCI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

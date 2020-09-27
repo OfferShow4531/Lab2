@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H91J/FoaFTGBq5VMRn+S+UNi6eQpxY1hH//VqzYsP0Xi8qLv+iKP8MOFp/KMtwJxiRsIVfIEtMg0p6YVB8v6ZA==",
+  "dgSpecHash": "zZiSbkYB2RGgGoQGvaiHn+vpVpHeZMbmTzUqLHGFE8LG5btkua+QlqTID5ctzNJQB8jFb+gxA+Iqn+RgRpEKfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Laboratory work 2 (HCI)\\Laboratory work 2 (HCI)\\LBHCI.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Lab2HCI\\Lab2HCI\\Lab2HCI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
